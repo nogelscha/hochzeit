@@ -1,0 +1,126 @@
+Nummer	Name	Einteilung	Tel.Num	Alterseinteilung					
+1	Hermann	Familie	00436803036431	Erwachsen					
+2	Maria	Familie	004367763700061	Erwachsen					
+3	Anita	Familie	00436643513321	Erwachsen					
+4	Ralf	Familie		Kind					
+5	Nico	Familie		Kind					
+6	Lisa	Familie		Kind					
+7	Alex	Familie	068181674266	Erwachsen					
+8	Heinz	Familie		Kind					
+9	MOritz	Familie		Kind					
+10	Paul	Familie		Kind					
+11	Anna-Sophie	Familie		Kind					
+12	Hilde	Familie	06645760247	Erwachsen					
+13	Wilhelm	Familie	06642621028	Erwachsen					
+14	Peter	Familie	06769371977	Erwachsen					
+15	Carmen	Familie	06769443378	Erwachsen					
+16	Jens	Familie		Kind					
+17	jonas	Familie		Kind					
+18	samuel	Familie		Kind					
+19	Neni	Familie	06642262389	Erwachsen					
+20	Georg	Familie		Kind					
+21	Chrisi	Familie		Kind					
+22	Jakob	Familie		Kind					
+23	Franzi	Familie		Kind					
+24	Liesi	Familie	06767245424	Erwachsen					
+25	michi	Familie	06769650493	Erwachsen					
+26	aey	Familie	067689958289	Erwachsen					
+27	kathi	Familie		Kind					
+28	gabriel	Familie		Kind					
+29	nicole	Familie	06764545080	Erwachsen					
+30	christian	Familie	06767245414	Erwachsen					
+31	isabell	Familie		Kind					
+32	sebastian	Familie		Kind					
+33	manfred	Familie	0664807536072	Erwachsen					
+34	grete	Familie	069918685637	Erwachsen					
+35	alex	Familie	069918453131	Erwachsen					
+36	viktoria	Familie	069911906337	Erwachsen					
+37	kathrin	Familie	06644155447	Erwachsen					
+38	mario	Familie		Kind					
+39	thomas	Familie	06645343768	Erwachsen					
+40	renate	Familie	06509192711	Erwachsen					
+41	roman	Familie	06509952065	Erwachsen					
+42	mama	Familie	004369919271532	Erwachsen					
+43	papa	Familie	004369911011093	Erwachsen					
+44	philipp	Familie	004915227905819	Erwachsen					
+45	marlies	Familie	068181857452	Erwachsen					
+46	Felix	Familie	068181857452	Kind					
+47	Birthe	Enge Freunde	004915128721841	Erwachsen					
+48	Frieda	Enge Freunde	004915128721841	Kind					
+49	Rafael	Enge Freunde	004915128721841	Erwachsen					
+50	Mellie	Enge Freunde	004915738739248	Erwachsen					
+51	Tim	Enge Freunde	004915738739248	Erwachsen					
+52	angi	Enge Freunde		Erwachsen					
+53	ayhan	Enge Freunde		Erwachsen					
+54	noel	Enge Freunde		Kind					
+55	luis	Enge Freunde		Kind					
+56	Alex	Enge Freunde		Erwachsen					
+57	claudia	Enge Freunde		Erwachsen					
+58	bernhard	Enge Freunde		Erwachsen					
+59	theresa	Enge Freunde		Erwachsen					
+60	ei	Enge Freunde		Erwachsen					
+61	jakob	Enge Freunde		Erwachsen					
+62	kathrin	Enge Freunde		Erwachsen					
+63	tomi	Enge Freunde		Erwachsen					
+64	lena	Enge Freunde		Erwachsen					
+65	lisa	Enge Freunde		Erwachsen					
+66	shorty	Enge Freunde		Erwachsen					
+67	andrea	Enge Freunde		Erwachsen					
+68	vera	Enge Freunde		Erwachsen					
+69	Bibsi	Enge Freunde		Erwachsen					
+70	Nono	Enge Freunde		Erwachsen					
+71	Steffi	Enge Freunde		Erwachsen					
+72	Sarah	Enge Freunde		Erwachsen					
+73	Monika	Enge Freunde		Erwachsen					
+74	Walter	Enge Freunde		Erwachsen					
+75	Betty	Arbeit	069911089554	Erwachsen					
+76	Haldun	Arbeit		Erwachsen					
+77	Sabine	Arbeit	06766714949	Erwachsen					
+78	Klara 	Arbeit	069919039606	Erwachsen					
+81	Leyla	Arbeit		Erwachsen					
+82	Peter	Arbeit		Erwachsen					
+83	matteo	Arbeit		Erwachsen					
+84	samuel	Arbeit		Erwachsen					
+85	papa	joshua	00436642027221	Erwachsen					
+86	mama	joshua	00436641602770	Erwachsen					
+87	amy	joshua	00436642170606	Erwachsen					
+88	Sue	joshua	00447960222060	Erwachsen					
+89	darren	joshua	00447717743817	Erwachsen					
+90	gerta	joshua	00436802404118	Erwachsen					
+91	alfons	joshua	00436802404118	Erwachsen					
+92	peter	joshua	00436647906660	Erwachsen					
+93	doro	joshua	00436642273215	Erwachsen					
+94	xaver	joshua	00393465051356	Erwachsen					
+95	jotti	joshua	00436641911441	Erwachsen					
+96	thom	joshua	00436504212535	Erwachsen					
+97	michi	joshua	00436648429317	Erwachsen					
+98	elias	joshua	00436781212075	Erwachsen					
+99	vroni	joshua	00436781291717	Erwachsen					
+100	coen	joshua	00436641718483	Erwachsen					
+101	isa	joshua	00436643431258	Erwachsen					
+102	rafael	joshua	00436643431258	Kind					
+103	rafael 2 	joshua	00436641718483	Kind					
+104	lipei	joshua	004366475162417	Erwachsen					
+105	Lisa	joshua	004366475162417	Erwachsen					
+106	vali	joshua	00436801322874	Erwachsen					
+107	warter	joshua	00436644561188	Erwachsen					
+108	alex	joshua	00436645175538	Erwachsen					
+109	maria	joshua	004368181500578	Erwachsen					
+110	stefan	joshua	00436642020808	Erwachsen					
+111	birgit	joshua	00436641042717	Erwachsen					
+112	phils gurl	joshua	00436644327837	Erwachsen					
+113	gmainer	joshua	004366475035501	Erwachsen					
+114	phil	joshua	00436644327837	Erwachsen					
+115	maria	joshua	00436642334452	Erwachsen					
+116	robert	joshua	00436642334452	Erwachsen					
+117	zistl	joshua	00436603964118	Erwachsen					
+118	sepp	joshua	00436509109539	Erwachsen					
+119	markus	joshua	00436648474161	Erwachsen					
+120	johanna	joshua	00436648474161	Erwachsen					
+121	Kiko	joshua	004366488138535	Erwachsen					
+122	Jürgen	joshua	004366488138535	Erwachsen					
+123	Anna	joshua	004366488138535	Kind					
+124	Max	joshua	00436644565914	Erwachsen					
+125	 Nono_gurl	Enge Freunde		Erwachsen					
+126	Willi	Enge Freunde		Erwachsen					
+127	stefi	Enge Freunde		Erwachsen					
